@@ -3,7 +3,7 @@
 <h1 align="center">Hi&nbsp;there&nbsp;👋, I'm Abhishek Jha</h1>
 
 <p align="center">
-  Aspiring Software Engineer • MERN &nbsp;|&nbsp; ML/AI Enthusiast • Mentor @ DTU
+  Aspiring Software Engineer • MERN Stack Developer &nbsp;| Competitive Programmer |&nbsp; ML/AI Enthusiast • Mentor @ Step DTU
 </p>
 
 <p align="center">
