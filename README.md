@@ -48,7 +48,7 @@
 | [E‑WhiteBoard](https://github.com/Abhishekjha41/E-WhiteBoard) | React · Socket.io | Hand‑gesture collaborative whiteboard |
 | [Horizon (Banking Platform)](https://github.com/Abhishekjha41/Horizon) | MERN | Manage online / offline products + billing |
 | [DSA‑Verse](https://github.com/Abhishekjha41/DSA-Verse) | HTML/CSS/JS | Interactive visualizer for core DSA |
-| [DyslexiaHelper (Amazon Hackathon)](https://github.com/Abhishekjha41/DyslexiaHelper) | MERN | Accessibility tool for dyslexics built during Amazon Hackathon |
+|  [AEGIS🛡️ (Amazon HackOn 2025)](https://github.com/Abhishekjha41/amazon-hackon-app) | MERN · ML · NLP | Real-time e-commerce fraud detection system with review scoring, seller trust analysis, and moderator dashboard |
 | [Human‑Pose‑Estimation](https://github.com/Abhishekjha41/Human-Pose-Estimation) | Python · Streamlit | Real‑time pose detection & analytics |
 
 ---
