@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 3rd‑year CSE student @ **DTU, Delhi**
-- 💼 Siemens Scholar (Batch‑11) & AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**
+- 💼 Siemens Scholar (Batch‑11) & Ex- AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**
 - 🛠️ Building **full‑stack** products (MERN / TypeScript) & fun ML projects in **Python**
 - 👨‍🏫 Mentor for DTU freshers & IIT‑JEE aspirants; love sharing tech + study hacks  
 - ⚡ Currently hacking on **DSA All Visualizer** & **Blood‑Bank System**
