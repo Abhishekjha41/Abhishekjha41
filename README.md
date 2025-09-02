@@ -19,11 +19,12 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 3rd‑year CSE student @ **DTU, Delhi**
+- 🎓 3rd‑year CSE student @ **DTU, Delhi** , (CGPA-9.49)
 - 💼 Siemens Scholar (Batch‑11) & Ex- AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**
+- 🌟 Amazon Hackon 2025 Semifinalist & TVS Credit 7.0 Assessment Round Cleared
 - 🛠️ Building **full‑stack** products (MERN / TypeScript) & fun ML projects in **Python**
 - 👨‍🏫 Mentor for DTU freshers & IIT‑JEE aspirants; love sharing tech + study hacks  
-- ⚡ Currently hacking on **DSA All Visualizer** & **Blood‑Bank System**
+- ⚡ Currently hacking on **DSA Visualizer** & **AI Interviewer Platform**
 
 ---
 
