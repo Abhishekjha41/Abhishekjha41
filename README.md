@@ -17,17 +17,11 @@
 </p>
 
 ---
+## 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
-- 🎓 3rd‑year CSE student @ **DTU, Delhi** , (CGPA-9.49)
-- 💼 Siemens Scholar (Batch‑11) & Ex- AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**
-- 🌟 Amazon Hackon 2025 Semifinalist & TVS Credit 7.0 Assessment Round Cleared
-- 🛠️ Building **full‑stack** products (MERN / TypeScript) & fun ML projects in **Python**
-- 👨‍🏫 Mentor for DTU freshers & IIT‑JEE aspirants; love sharing tech + study hacks  
-- ⚡ Currently hacking on **DSA Visualizer** & **AI Interviewer Platform**
-
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+| | |
+|--|--|
+| <div align="left">  • 🎓 3rd-year CSE student @ **DTU, Delhi** , (CGPA-9.49)<br> • 💼 Siemens Scholar (Batch-11) & Ex-AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**<br> • 🌟 Amazon HackOn 2025 Semifinalist & TVS Credit 7.0 Assessment Round Cleared<br> • 🛠️ Building **full-stack** products (MERN / TypeScript) & fun ML projects in **Python**<br> • 👨‍🏫 Mentor for DTU freshers & IIT-JEE aspirants; love sharing tech + study hacks<br> • ⚡ Currently hacking on **DSA Visualizer** & **AI Interviewer Platform** </div> | <img src="https://programing-gifs.vercel.app/" width="280" height="240" alt="Programming GIFs"> |
 
 ---
 
@@ -84,5 +78,5 @@
 ---
 
 <p align="center">
-  🚩 Repositories: **17**   ⭐ Stars: **2**  🔭 Always learning, always building!
+  🚩 Repositories: **26**   ⭐ Stars: **2**  🔭 Always learning, always building!
 </p>
