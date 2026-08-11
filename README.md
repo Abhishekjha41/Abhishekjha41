@@ -21,7 +21,7 @@
 
 | | |
 |--|--|
-| <div align="left"> • 🎉 SWE Intern @**Microsoft**<br> • 🎓 3rd-year CSE student @ **DTU, Delhi** , (CGPA-9.46)<br> • 💼 Siemens Scholar (Batch-11) & Ex-AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**<br> • 🌟 Winner ✌️ LavaPunk Hackaton 2026, Amazon HackOn 2025 Semifinalist & TVS Credit 7.0 Assessment Round Cleared<br> • 🛠️ Building **full-stack** products (MERN / TypeScript) & fun ML projects in **Python**<br> • 👨‍🏫 Mentor for DTU freshers & IIT-JEE aspirants; love sharing tech + study hacks<br> • ⚡ Currently hacking on **DSA Visualizer** & **AI Interviewer Platform** </div> | <img src="https://programing-gifs.vercel.app/" width="280" height="240" alt="Programming GIFs"> |
+| <div align="left"> • 🎉 SWE Intern @**Microsoft**<br> • 🎓 3rd-year CSE student @ **DTU, Delhi** , (CGPA-9.51)<br> • 💼 Siemens Scholar (Batch-11) & Ex-AI intern @ **TechSaksham - CSR Initiative of Microsoft & SAP**<br> • 🌟 Winner ✌️ LavaPunk Hackaton 2026, Amazon HackOn 2025 Semifinalist & TVS Credit 7.0 Assessment Round Cleared<br> • 🛠️ Building **full-stack** products (MERN / TypeScript) & fun ML projects in **Python**<br> • 👨‍🏫 Mentor for DTU freshers & IIT-JEE aspirants; love sharing tech + study hacks<br> • ⚡ Currently hacking on **DSA Visualizer** & **AI Interviewer Platform** </div> | <img src="https://programing-gifs.vercel.app/" width="280" height="240" alt="Programming GIFs"> |
 
 ---
 
